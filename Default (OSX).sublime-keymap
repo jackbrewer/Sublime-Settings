@@ -1,0 +1,8 @@
+[
+	// CSS - Quick Brackets
+	{ "keys": ["keypad_enter"], "command": "insert_snippet", "args": {"name": "Packages/User/Snippets/Quick CSS Brackets.sublime-snippet"}, "context":
+		 [
+				{ "key": "selector", "operator": "equal", "operand": "source.css" }
+		 ]
+	}
+]

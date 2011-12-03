@@ -1,0 +1,37 @@
+{
+	"codeintel_disabled_languages":
+	[
+		"css",
+		"html",
+		"php"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"font_face": "Monaco",
+	"font_size": 12.0,
+	"highlight_line": true,
+	"jshint_options":
+	{
+		"browser": true,
+		"curly": true,
+		"devel": true,
+		"eqeqeq": true,
+		"eqnull": true,
+		"evil": false,
+		"immed": false,
+		"latedef": false,
+		"newcap": true,
+		"node": true,
+		"noempty": true,
+		"nonew": false,
+		"trailing": false,
+		"undef": false
+	},
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+	"find_selected_text": true
+}

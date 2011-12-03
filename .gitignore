@@ -1,0 +1,8 @@
+# OSX
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+Package Control.sublime-settings

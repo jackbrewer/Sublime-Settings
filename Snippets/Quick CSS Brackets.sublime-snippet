@@ -1,0 +1,10 @@
+<!-- This snippet remaps the numberpad 'enter' button to add CSS {} brackets -->
+<!-- The standard keyboard 'return' button can be used for new lines -->
+<snippet>
+	<content><![CDATA[
+ {
+	$0
+}
+]]></content>
+	<scope>source.css</scope>
+</snippet>
