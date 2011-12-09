@@ -1,0 +1,17 @@
+<!-- Basic Vendor Prefix support -->
+<!-- To Use: Select required non-prefixed declaration and press CMD+CTRL+V -->
+<!-- Alternatively, hit '-' then tab, then write your declaration -->
+<!-- Requires addition to keymap to work correctly -->
+<snippet>
+	<content><![CDATA[
+-webkit-$0
+   -moz-$0
+    -ms-$0
+     -o-$0
+        ${0:$SELECTION}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>-</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>

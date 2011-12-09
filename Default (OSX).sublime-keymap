@@ -4,5 +4,12 @@
 		 [
 				{ "key": "selector", "operator": "equal", "operand": "source.css" }
 		 ]
+	},
+
+	// CSS - Vendor Prefixes
+	{ "keys": ["super+ctrl+v"], "command": "insert_snippet", "args": {"name": "Packages/User/Snippets/Vendor Prefix.sublime-snippet"}, "context":
+		 [
+				{ "key": "selector", "operator": "equal", "operand": "source.css" }
+		 ]
 	}
 ]
