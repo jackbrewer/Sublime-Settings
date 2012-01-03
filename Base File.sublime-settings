@@ -1,9 +1,9 @@
 {
+	"auto_complete": false,
 	"codeintel_disabled_languages":
 	[
 		"css",
-		"html"/*,
-		"php"*/
+		"html"
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
