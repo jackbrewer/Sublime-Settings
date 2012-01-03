@@ -5,6 +5,7 @@ This repo contains the contents of my User folder.
 ## Packages Used
 #### Installed via [Package Control](http://wbond.net/sublime_packages/package_control)
 * [Clipboard History](https://github.com/kemayo/sublime-text-2-clipboard-history)
+* [Color Picker](https://github.com/weslly/ColorPicker)
 * [Inc-Dev-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value)
 * [Soda (Theme)](https://github.com/buymeasoda/soda-theme)
 * [Sublime Code Intel](https://github.com/Kronuz/SublimeCodeIntel)
