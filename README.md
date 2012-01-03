@@ -6,7 +6,6 @@ This repo contains the contents of my User folder.
 #### Installed via [Package Control](http://wbond.net/sublime_packages/package_control)
 * [Clipboard History](https://github.com/kemayo/sublime-text-2-clipboard-history)
 * [Inc-Dev-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value)
-* [Open Recent Files](https://github.com/spadgos/sublime-OpenRecentFiles)
 * [Soda (Theme)](https://github.com/buymeasoda/soda-theme)
 * [Sublime Code Intel](https://github.com/Kronuz/SublimeCodeIntel)
 * [Sublime Linter](https://github.com/Kronuz/SublimeLinter)
