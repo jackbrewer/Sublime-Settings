@@ -8,6 +8,7 @@ This repo contains the contents of my User folder.
 * [Color Picker](https://github.com/weslly/ColorPicker)
 * [Inc-Dev-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value)
 * [Soda (Theme)](https://github.com/buymeasoda/soda-theme)
+* [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Sublime Code Intel](https://github.com/Kronuz/SublimeCodeIntel)
 * [Sublime Linter](https://github.com/Kronuz/SublimeLinter)
 * [Zen Coding](https://bitbucket.org/wbond/sublime-2-zencoding)
