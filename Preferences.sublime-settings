@@ -10,9 +10,54 @@
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
 	"font_face": "Monaco",
 	"font_size": 12.0,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ASP",
+		"AppleScript",
+		"Batch File",
+		"C#",
+		"C++",
+		"Clojure",
+		"D",
+		"Erlang",
+		"Go",
+		"Graphviz",
+		"Groovy",
+		"Haskell",
+		"Java",
+		"LaTeX",
+		"Lisp",
+		"Lua",
+		"Makefile",
+		"Matlab",
+		"OCaml",
+		"Objective-C",
+		"Perl",
+		"Python",
+		"R",
+		"Rails",
+		"Regular Expressions",
+		"RestructuredText",
+		"Ruby",
+		"Scala",
+		"ShellScript",
+		"TCL",
+		"Textile",
+		"Vintage",
+		"YAML"
+	],
 	"jshint_options":
 	{
 		"browser": true,
@@ -32,6 +77,8 @@
 	},
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
 	"word_wrap": false
 }
