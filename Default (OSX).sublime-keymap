@@ -1,13 +1,13 @@
 [
 	// CSS - Quick Brackets
-	{ "keys": ["keypad_enter"], "command": "insert_snippet", "args": {"name": "Packages/User/Snippets/Quick CSS Brackets.sublime-snippet"}, "context":
+	{ "keys": ["keypad_enter"], "command": "insert_snippet", "args": {"name": "Packages/User/Snippets/CSS/Quick CSS Brackets.sublime-snippet"}, "context":
 		 [
 				{ "key": "selector", "operator": "equal", "operand": "source.css" }
 		 ]
 	},
 
 	// CSS - Vendor Prefixes
-	{ "keys": ["super+ctrl+v"], "command": "insert_snippet", "args": {"name": "Packages/User/Snippets/Vendor Prefix.sublime-snippet"}, "context":
+	{ "keys": ["super+ctrl+v"], "command": "insert_snippet", "args": {"name": "Packages/User/Snippets/CSS/Vendor Prefix.sublime-snippet"}, "context":
 		 [
 				{ "key": "selector", "operator": "equal", "operand": "source.css" }
 		 ]
