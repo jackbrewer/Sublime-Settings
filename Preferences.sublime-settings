@@ -6,6 +6,7 @@
 		"html"
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
