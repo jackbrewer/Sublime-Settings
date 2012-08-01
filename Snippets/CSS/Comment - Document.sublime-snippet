@@ -1,10 +1,12 @@
 <snippet>
 	<content><![CDATA[
 /*
- * $TM_FILENAME
- * ${1:Description}
- * ${1/./=/g}
- */$0
+  $TM_FILENAME
+  ${TM_FILENAME/./=/g}
+
+  ${1:Description}
+
+*/$0
 ]]></content>
 	<!--
 	Work In Progress - Strip file extension and convert to uppercase, swap punctuation to spaces
