@@ -11,11 +11,12 @@ This repo contains the contents of my User folder.
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Sublime Code Intel](https://github.com/Kronuz/SublimeCodeIntel)
 * [Sublime Linter](https://github.com/Kronuz/SublimeLinter)
+* [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces)
 * [Zen Coding](https://bitbucket.org/wbond/sublime-2-zencoding)
 
 ## TextMate Bundles Used
-* [CSS-JackBB](https://github.com/jackbb/CSS-JackBB.tmbundle)
-* [HTML-JackBB](https://github.com/jackbb/HTML-JackBB.tmbundle)
+* [CSS+](https://github.com/jackbrewer/CSS-Plus.tmbundle)
+* [HTML+](https://github.com/jackbrewer/HTML-Plus.tmbundle)
 * [Jade](https://github.com/miksago/jade-tmbundle)
 * [Stylus](https://github.com/LearnBoost/stylus/tree/master/editors)
-* [Stylus-JackBB](https://github.com/jackbb/Stylus-JackBB.tmbundle)
+* [Stylus-JackBB](https://github.com/jackbrewer/Stylus-JackBB.tmbundle)
