@@ -19,4 +19,4 @@ This repo contains the contents of my User folder.
 * [HTML+](https://github.com/jackbrewer/HTML-Plus.tmbundle)
 * [Jade](https://github.com/miksago/jade-tmbundle)
 * [Stylus](https://github.com/LearnBoost/stylus/tree/master/editors)
-* [Stylus-JackBB](https://github.com/jackbrewer/Stylus-JackBB.tmbundle)
+* [Stylus+](https://github.com/jackbrewer/stylus-plus.tmbundle)
