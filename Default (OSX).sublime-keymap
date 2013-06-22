@@ -17,5 +17,8 @@
 	{ "keys": ["ctrl+alt+super+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
 
 	// Revel file in side bar
-	{ "keys": ["ctrl+alt+super+s"], "command": "reveal_in_side_bar" }
+	{ "keys": ["ctrl+alt+super+s"], "command": "reveal_in_side_bar" },
+
+	// Git Blame
+	{"keys": ["ctrl+alt+b"], "command": "git_blame"}
 ]
