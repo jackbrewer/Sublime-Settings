@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+// $TM_FILENAME
+// ${1:Description}
+// ${1/./=/g}$0
+]]></content>
+	<!--
+	Work In Progress - Strip file extension and convert to uppercase, swap punctuation to spaces
+	// ${TM_FILENAME/(.*?)(\..+)/\U$1/g}
+	// ${TM_FILENAME/([^a-zA-Z0-9])(\..+)/$1 /}
+	 --!>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>//</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.stylus</scope>
+</snippet>
