@@ -1,27 +1,24 @@
 {
-	"codeintel_disabled_languages":
-	[
-		"css",
-		"html"
-	],
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"autocomplete": false,
+	"bold_folder_labels": false,
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_minimap_border": true,
-	"draw_white_space": "selection",
+	"draw_white_space": "all",
 	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
 		".git",
+		"node_modules",
 		".hg",
 		"CVS",
-		"node_modules",
 		"_site",
 		".sass-cache"
 	],
 	"font_face": "Monaco",
-	"font_size": 13.0,
+	"font_size": 16.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -56,12 +53,18 @@
 		"Graphviz",
 		"YAML",
 		"Haskell",
-		"Go",
-		"ZenCoding"
+		"Go"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		80
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Flatland.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
 	"word_wrap": false

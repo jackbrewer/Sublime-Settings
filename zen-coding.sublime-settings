@@ -1,0 +1,10 @@
+{
+	"completions_blacklist": [
+    "css_selectors",
+    "css_property_values",
+    "html_elements_attributes",
+    "html_attributes_values",
+    "css_properties"
+   ]
+	, "disable_completions": true
+}
